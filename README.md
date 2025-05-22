@@ -16,3 +16,8 @@
 ## 3.1. Original code
 ![alt text](image.png)
 ![alt text](image-1.png)
+
+## 3.2. Add some creativities to the webclient
+![alt text](image-2.png)
+
+Untuk ini saya hanya mengubah style dari halaman chat agar tampil lebih modern dan menarik menggunakan kombinasi warna ungu (violet) dan nuansa gelap. Ini dilakukan dengan mengubah kode `html!{...}` pada kode chat.rs dengan tampilan html yang diinginkan.
