@@ -1,21 +1,18 @@
-# YewChat 💬
+# Tutorial 10 - WebChat
 
 > Source code for [Let’s Build a Websocket Chat Project With Rust and Yew 0.19 🦀](#)
 
-## Install
+## Run
 
 1. Install the required toolchain dependencies:
    ```npm i```
 
-2. Follow the YewChat post!
+2. Build docker image
+   ```docker build -t yewchat .```
 
-## Branches
+3. Run docker
+   ```docker run -p 8000:8000 yewchat```
 
-This repository is divided to branches that correspond to the blog post sections:
-
-* main - The starter code.
-* routing - The code at the end of the Routing section.
-* components-part1 - The code at the end of the Components-Phase 1 section.
-* websockets - The code at the end of the Hello Websockets! section.
-* components-part2 - The code at the end of the Components-Phase 2 section.
-* websockets-part2 - The code at the end of the WebSockets-Phase 2 section.
+## 3.1. Original code
+![alt text](image.png)
+![alt text](image-1.png)
